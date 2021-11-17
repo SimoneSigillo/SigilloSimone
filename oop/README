@@ -1,0 +1,8 @@
+#Documentazione
+
+##Descrizione del progetto
+Quest'anno insieme al professor Mazzone Diomede e la professoressa Tripepi Marina, ci siamo concentrati su un progetto ben preciso e ben organizzato, ovvero un codice risolutore che genera tutte le possibili combinazioni di quante e quali parole di senso compiuto della lingua italiana, prendendo quest'ultime da un file che contiene tutti termini della lingua italiana. Il nostro scopo principale infatti è quello di unire l'argomento di matematica, ovvero il calcolo combinatorio, con lo sviluppo di un codice python, che genera tutti i tipi di raggruppamenti. Infine inseriremo il nostro codice risolutore all'interno di un gioco.
+
+
+##Idea del possibile gioco
+L'idea era quella di creare una matrice di lettere posizionate in maniera non omogenea, di dimensioni prestabilite, rispecchiando il funzionamento del gioco ruzzle.   Parlando del funzionamento della raccolta punti, quest'ultimi si ottengono in base alla lunghezza della parola e dalla sua rarità ( ovviamente ciò implica una complicazione allo sviluppo del codice). Dopodichè completare il gioco con la creazione di un'interfaccia grafica. 
